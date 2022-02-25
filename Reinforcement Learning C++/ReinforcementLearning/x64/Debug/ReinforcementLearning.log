@@ -1,0 +1,4 @@
+﻿  Source.cpp
+M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_4_Reinforcement_Learning\CMP304-AI_Week_4_Reinforcement_Learning\Reinforcement Learning C++\ReinforcementLearning\Source.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_4_Reinforcement_Learning\CMP304-AI_Week_4_Reinforcement_Learning\Reinforcement Learning C++\ReinforcementLearning\Source.cpp(47): warning C4715: 'selectState': not all control paths return a value
+  ReinforcementLearning.vcxproj -> M:\Uni Year 3\CMP304 - AI\Labs\CMP304-AI_Week_4_Reinforcement_Learning\CMP304-AI_Week_4_Reinforcement_Learning\Reinforcement Learning C++\x64\Debug\ReinforcementLearning.exe
